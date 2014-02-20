@@ -1,4 +1,4 @@
-ClapTrap_IRC_Bot
+ClapTrap IRC Bot
 ================
 
 Hello I just improve my irc bot called Claptrap (based on the funny robot borderlands), the bot has the following commands:
